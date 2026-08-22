@@ -1,0 +1,4 @@
+brightness
+glow
+inversion
+transparency

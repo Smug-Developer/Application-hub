@@ -1,0 +1,447 @@
+online
+digital
+cloud
+also known as internet or web
+
+Digital online network navigation device browser
+
+
+https://browsers.to/ available and comparisons
+
+Google Chrome
+
+Fast, popular, and extensible with a massive extension ecosystem.
+Mac
+Windows
+Linux
+iOS
+Android
+Google Chrome logo
+Speed5/5
+Ease of use4/5
+Customizability4/5
+Privacy2/5
+Extensions4/5
+AI features3/5
+View details
+
+Mozilla Firefox
+
+Open-source with strong privacy features and advanced customization.
+Mac
+Windows
+Linux
+iOS
+Android
+Mozilla Firefox logo
+Speed4/5
+Ease of use4/5
+Customizability5/5
+Privacy4/5
+Extensions5/5
+AI features2/5
+View details
+
+Brave
+
+Privacy-first browser with built-in ad/tracker blocking and Tor support.
+Mac
+Windows
+Linux
+iOS
+Android
+Brave logo
+Speed4/5
+Ease of use3/5
+Customizability4/5
+Privacy5/5
+Extensions5/5
+AI features4/5
+View details
+
+Arc
+
+A new way to browse with spaces, notes, and AI-assisted workflows.
+Mac
+Windows
+Arc logo
+Speed4/5
+Ease of use4/5
+Customizability4/5
+Privacy3/5
+Extensions4/5
+AI features5/5
+View details
+
+Opera
+
+Feature-rich browser with AI tools, sidebar apps, and a built-in VPN.
+Mac
+Windows
+Linux
+iOS
+Android
+Opera logo
+Speed4/5
+Ease of use4/5
+Customizability3/5
+Privacy3/5
+Extensions4/5
+AI features5/5
+View details
+
+Opera GX
+
+Gaming-focused browser with performance controls and built-in AI.
+Mac
+Windows
+iOS
+Android
+Opera GX logo
+Speed4/5
+Ease of use4/5
+Customizability4/5
+Privacy3/5
+Extensions4/5
+AI features4/5
+View details
+
+Apple Safari
+
+Energy-efficient with deep Apple ecosystem integration.
+Mac
+iOS
+Apple Safari logo
+Speed5/5
+Ease of use4/5
+Customizability2/5
+Privacy4/5
+Extensions3/5
+AI features2/5
+View details
+
+DuckDuckGo Browser
+
+Tracker blocking and smarter encryption for privacy-minded users.
+Mac
+Windows
+iOS
+Android
+DuckDuckGo Browser logo
+Speed4/5
+Ease of use4/5
+Customizability2/5
+Privacy5/5
+Extensions2/5
+AI features3/5
+View details
+
+Microsoft Edge
+
+Chromium-based with strong performance and Microsoft services.
+Mac
+Windows
+Linux
+iOS
+Android
+Microsoft Edge logo
+Speed5/5
+Ease of use4/5
+Customizability4/5
+Privacy3/5
+Extensions5/5
+AI features5/5
+View details
+
+Vivaldi
+
+Highly customizable power-user browser with unique UI features.
+Mac
+Windows
+Linux
+iOS
+Android
+Vivaldi logo
+Speed4/5
+Ease of use3/5
+Customizability5/5
+Privacy4/5
+Extensions4/5
+AI features1/5
+View details
+
+Opera Air
+
+AI-centric Opera experience with built-in models and smart browsing.
+Mac
+Windows
+Linux
+Opera Air logo
+Speed4/5
+Ease of use4/5
+Customizability3/5
+Privacy3/5
+Extensions4/5
+AI features5/5
+View details
+
+Dia
+
+Minimal, distraction-free browser with AI assistance.
+Mac
+Windows
+Dia logo
+Speed4/5
+Ease of use4/5
+Customizability3/5
+Privacy3/5
+Extensions3/5
+AI features5/5
+View details
+
+Comet
+
+Perplexity's AI-native browser for reasoning on the web.
+Mac
+Windows
+Comet logo
+Speed4/5
+Ease of use4/5
+Customizability3/5
+Privacy3/5
+Extensions3/5
+AI features5/5
+View details
+
+ChatGPT Atlas
+
+AI-native browsing from OpenAI's ChatGPT team.
+Mac
+Windows
+ChatGPT Atlas logo
+Speed3/5
+Ease of use4/5
+Customizability3/5
+Privacy3/5
+Extensions3/5
+AI features5/5
+View details
+
+Helium
+
+Lightweight, privacy-first browser focused on fast workflows.
+Mac
+Windows
+Linux
+Helium logo
+Speed5/5
+Ease of use3/5
+Customizability3/5
+Privacy4/5
+Extensions5/5
+AI features2/5
+View details
+
+Floorp
+
+Firefox-based browser with extra customization options.
+Mac
+Windows
+Linux
+Floorp logo
+Speed4/5
+Ease of use4/5
+Customizability5/5
+Privacy4/5
+Extensions4/5
+AI features1/5
+View details
+
+Strawberry
+
+A fresh take on browsing with built-in productivity tools.
+Mac
+Windows
+Strawberry logo
+Speed3/5
+Ease of use3/5
+Customizability3/5
+Privacy3/5
+Extensions2/5
+AI features5/5
+View details
+
+Shift
+
+A unified workstation for apps, email, and browsing.
+Mac
+Windows
+Shift logo
+Speed3/5
+Ease of use4/5
+Customizability4/5
+Privacy3/5
+Extensions3/5
+AI features1/5
+View details
+
+SigmaOS
+
+The browser for work, with spaces, tasks, and AI.
+Mac
+SigmaOS logo
+Speed4/5
+Ease of use4/5
+Customizability4/5
+Privacy3/5
+Extensions3/5
+AI features5/5
+View details
+
+Tor Browser
+
+Routes traffic through Tor for anonymity and tracker resistance.
+Mac
+Windows
+Linux
+Android
+Tor Browser logo
+Speed2/5
+Ease of use3/5
+Customizability3/5
+Privacy5/5
+Extensions2/5
+AI features1/5
+View details
+
+LibreWolf
+
+Privacy- and security-focused Firefox fork with sane defaults.
+Mac
+Windows
+Linux
+LibreWolf logo
+Speed4/5
+Ease of use3/5
+Customizability4/5
+Privacy5/5
+Extensions4/5
+AI features1/5
+View details
+
+Opera Mini
+
+Data-saving mobile browser with compression and speed mode.
+iOS
+Android
+Opera Mini logo
+Speed4/5
+Ease of use4/5
+Customizability2/5
+Privacy3/5
+Extensions1/5
+AI features2/5
+View details
+
+Firefox Focus
+
+A simple mobile browser that blocks trackers by default.
+iOS
+Android
+Firefox Focus logo
+Speed4/5
+Ease of use5/5
+Customizability2/5
+Privacy5/5
+Extensions1/5
+AI features1/5
+View details
+
+Zen Browser
+
+A Firefox-based browser with a calm, focused UI.
+Mac
+Windows
+Linux
+Zen Browser logo
+Speed4/5
+Ease of use4/5
+Customizability4/5
+Privacy4/5
+Extensions4/5
+AI features2/5
+View details
+
+Waterfox
+
+No-telemetry Firefox fork with Oblivious DNS and multi-store extensions.
+Mac
+Windows
+Linux
+Android
+Waterfox logo
+Speed4/5
+Ease of use4/5
+Customizability4/5
+Privacy5/5
+Extensions4/5
+AI features1/5
+View details
+
+Mullvad Browser
+
+Tor Project anti-fingerprinting without the Tor network, built for VPN use.
+Mac
+Windows
+Linux
+iOS
+Mullvad Browser logo
+Speed3/5
+Ease of use2/5
+Customizability2/5
+Privacy5/5
+Extensions2/5
+AI features1/5
+View details
+
+Orion
+
+Zero-telemetry WebKit browser with Chrome and Firefox extension support.
+Mac
+iOS
+Orion logo
+Speed5/5
+Ease of use4/5
+Customizability4/5
+Privacy4/5
+Extensions3/5
+AI features1/5
+View details
+
+Opera Neon
+
+Agentic AI browser with autonomous agents that browse, build, and research for you.
+Mac
+Windows
+Opera Neon logo
+Speed3/5
+Ease of use3/5
+Customizability2/5
+Privacy2/5
+Extensions1/5
+AI features5/5
+View details
+
+Norton Neo
+
+Free AI-native browser with Norton's threat intelligence and smart tab management.
+Mac
+Windows
+Norton Neo logo
+Speed4/5
+Ease of use4/5
+Customizability2/5
+Privacy4/5
+Extensions4/5
+AI features5/5
+View details

@@ -1,0 +1,11 @@
+Start application on user log in
+(Offline mode, no login and account required)
+Automaticly scan for installed applications add applications (option for manual review)
+Automaticly categorize and sort
+Automaticly add new application on install
+Add application option (for portable applications)
+Log hours application has been running for (total amount)
+Log all running applications
+Add hide option (hides application in the hub)
+
+Should be compatible with new and older versions of windows, linux, mac, raspberry pi
