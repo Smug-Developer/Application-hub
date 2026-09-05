@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>Application Hub</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <div class="brand"><div class="brand-mark">A</div><div><strong>APPLICATION</strong><span>HUB</span></div></div>
+    <div class="profile"><div class="avatar">D</div><div><b>Local User</b><small>Offline mode</small></div><div class="dot"></div></div>
+    <nav>
+      <button class="nav active" data-view="home">⌂ <span>Home</span></button>
+      <button class="nav" data-view="library">▦ <span>Library</span><em id="count">0</em></button>
+      <button class="nav" data-view="running">▶ <span>Running</span><em id="runningCount">0</em></button>
+      <button class="nav" data-view="favorites">★ <span>Favorites</span></button>
+      <div class="section-title">CATEGORIES</div>
+      <button class="nav category" data-cat="Development">Development</button><button class="nav category" data-cat="Graphics">Graphics</button><button class="nav category" data-cat="Internet">Internet</button><button class="nav category" data-cat="Utilities">Utilities</button>
+    </nav>
+    <div class="sidebar-bottom"><button id="addApp" class="add">＋ Add Application</button><button class="settings">⚙ Settings</button></div>
+  </aside>
+  <main class="main">
+    <header><div><h1 id="pageTitle">Home</h1><p id="pageSub">Your applications, all in one place.</p></div><div class="header-actions"><label class="search">⌕<input id="search" placeholder="Search applications..."></label><button id="scan" class="scan">↻ Scan</button></div></header>
+    <section id="hero" class="hero"><div><span class="eyebrow">APPLICATION HUB</span><h2>Your software library.</h2><p>One place for installed, portable and manually added applications.</p><button id="heroLibrary" class="primary">Open Library</button></div><div class="hero-art"><div class="orb"></div><div class="orb small"></div><div class="grid"></div></div></section>
+    <div id="content"></div>
+  </main>
+</div>
+<div id="modal" class="modal hidden"><div class="modal-card"><button class="close" id="close">×</button><h2>Add Application</h2><p>Add a portable application or any executable manually.</p><input id="appName" placeholder="Application name"><input id="appPath" placeholder="Executable path (e.g. C:\\Apps\\Example.exe)"><select id="appCat"><option>Utilities</option><option>Development</option><option>Graphics</option><option>Internet</option><option>Games</option></select><button id="saveApp" class="primary full">Add to Library</button></div></div>
+<script src="renderer.js"></script></body></html>
