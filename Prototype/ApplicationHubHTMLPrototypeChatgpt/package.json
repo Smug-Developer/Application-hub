@@ -1,0 +1,8 @@
+{
+  "name": "application-hub-prototype",
+  "version": "0.1.0",
+  "description": "Steam-inspired application library prototype for Windows",
+  "main": "src/main.js",
+  "scripts": {"start": "electron ."},
+  "devDependencies": {"electron": "^38.1.0"}
+}
